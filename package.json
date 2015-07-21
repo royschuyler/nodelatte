@@ -1,0 +1,23 @@
+{
+  "name": "nodelatte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/royschuyler/nodelatte.git"
+  },
+  "author": "royschuyler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/royschuyler/nodelatte/issues"
+  },
+  "homepage": "https://github.com/royschuyler/nodelatte#readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  }
+}
